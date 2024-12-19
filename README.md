@@ -1,5 +1,5 @@
 # Data-Factory-Databricks-Multi-Layer-ETL-Pipeline-Azure
-An ETL pipeline using Azure Data Factory and Databricks to implement the Bronze-Silver-Gold architecture. Processes raw data (Bronze), cleans it (Silver), and prepares it for analytics (Gold). Features Delta Lake transformations, Azure integration, and detailed documentation with screenshots.
+An ETL pipeline using Azure Data Factory and Databricks will be used to implement the Bronze-Silver-Gold architecture. Processes raw data (Bronze), cleans it (Silver), and prepares it for analytics (Gold). Features Delta Lake transformations, Azure integration, and detailed documentation with screenshots.
 
 # Databricks-Bronze-Silver-Gold-ETL-Pipeline  
 
@@ -25,10 +25,10 @@ This pipeline is designed to handle data ingestion, processing, and transformati
 ![image](https://github.com/user-attachments/assets/63496fc5-97bd-4318-a689-6252926e2ae3)
 
 
-### 2. Bronze to Silver Transformation in Databricks  
+### 2. Merge both Pipelines for Transformation  
 ![image](https://github.com/user-attachments/assets/186ce10f-fd43-498d-82b4-45a038e6965d)
 
-### 3. Silver to Gold Transformation in Databricks  
+### 3. Pipeline for Transformation in Databricks Notebooks
 ![image](https://github.com/user-attachments/assets/fa10b368-9be0-42c1-b84a-d2235d7a6d3b)
 
 ## 🛠️ Tools & Technologies  
